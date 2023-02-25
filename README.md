@@ -52,5 +52,5 @@ Based on youtube tutorial [Build and Deploy Your Own ChatGPT AI App in JavaScrip
 
 ## 📝 License
 
-Copyright © 2022 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
+Copyright © 2023 [Brenda Saavedra](https://github.com/brenfondeadora).<br />
 This project is [MIT License](LICENSE)
